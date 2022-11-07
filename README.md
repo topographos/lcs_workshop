@@ -1,1 +1,1 @@
-# lcs_workshop
+# LCS R lunch sessions

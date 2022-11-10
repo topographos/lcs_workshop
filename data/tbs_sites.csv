@@ -1,0 +1,89 @@
+fid,id,size_ha,start_date,end_date,longitude,latitude,source,code,period,name,tell
+"1",TBS_1_0_0,45,-900,-300,40.58698816,36.7377493,Ur and Wilkinson 2008,TBS,Iron Age,Tell Beydar,true
+"3",TBS_1_0_0,45,-1600,-1200,40.58698816,36.7377493,Ur and Wilkinson 2008,TBS,Late Bronze Age,Tell Beydar,true
+"4",TBS_1_0_0,24,-2550,-2100,40.58698816,36.7377493,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Beydar,true
+"7",TBS_11_0_0,0.393999,-1200,-550,40.6629578,36.71843078,Ur and Wilkinson 2008,TBS,Iron Age,,
+"8",TBS_11_0_0,0.393999,-1600,-1200,40.6629578,36.71843078,Ur and Wilkinson 2008,TBS,Late Bronze Age,,
+"9",TBS_13_0_0,1.812999,-1200,-550,40.71826544,36.74722038,Ur and Wilkinson 2008,TBS,Iron Age,,
+"10",TBS_13_0_0,1.812999,-1600,-1200,40.71826544,36.74722038,Ur and Wilkinson 2008,TBS,Late Bronze Age,,
+"11",TBS_14_0_0,0.77,-1200,-550,40.71311894,36.73548612,Ur and Wilkinson 2008,TBS,Iron Age,,
+"12",TBS_16_0_0,0.797998,-1200,-600,40.60848654,36.67467911,Ur and Wilkinson 2008,TBS,Iron Age,,
+"13",TBS_18_0_0,1.078999,-1200,-600,40.6196581,36.66634297,Ur and Wilkinson 2008,TBS,Iron Age,,
+"14",TBS_21_0_0,1.320999,-1200,-550,40.66359774,36.68209366,Ur and Wilkinson 2008,TBS,Iron Age,,
+"15",TBS_22_0_0,2.977999,-1200,-550,40.69655235,36.69236008,Ur and Wilkinson 2008,TBS,Iron Age,Bergul al-Buz,true
+"16",TBS_22_0_0,2.977999,-1600,-1200,40.69655235,36.69236008,Ur and Wilkinson 2008,TBS,Late Bronze Age,Bergul al-Buz,true
+"17",TBS_23_0_0,1.789999,-1200,-550,40.51496356,36.71645183,Ur and Wilkinson 2008,TBS,Iron Age,,
+"18",TBS_24_0_0,0.639999,-900,-600,40.60283632,36.75063933,Ur and Wilkinson 2008,TBS,Iron Age,,
+"19",TBS_25_0_0,1.292,-1200,-550,40.63679459,36.75229415,Ur and Wilkinson 2008,TBS,Iron Age,,
+"20",TBS_27_0_0,0.580999,-1200,-550,40.61598001,36.75228428,Ur and Wilkinson 2008,TBS,Iron Age,,
+"21",TBS_29_0_0,1.6,-1200,-550,40.60755486,36.76588839,Ur and Wilkinson 2008,TBS,Iron Age,Tell Rashid,true
+"22",TBS_3_0_0,2.878,-1200,-550,40.57860522,36.69428242,Ur and Wilkinson 2008,TBS,Iron Age,,
+"23",TBS_30_0_0,1.781,-1200,-550,40.61220316,36.7640699,Ur and Wilkinson 2008,TBS,Iron Age,,
+"24",TBS_31_0_0,1.975,-1200,-550,40.60637273,36.79294732,Ur and Wilkinson 2008,TBS,Iron Age,,
+"25",TBS_32_0_0,3.188,-1200,-550,40.62990359,36.78132706,Ur and Wilkinson 2008,TBS,Iron Age,Tell Khatun,true
+"26",TBS_32_0_0,1.654,-2550,-2000,40.62990359,36.78132706,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Khatun,true
+"27",TBS_35_0_0,2.453999,-2550,-2000,40.64630874,36.80010979,Ur and Wilkinson 2008,TBS,Late Third Millennium,Gir Doud,true
+"28",TBS_37_0_0,1.172,-2550,-2000,40.65869184,36.82285267,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Ghazal,true
+"29",TBS_37_0_0,1.143,-1200,-550,40.65869184,36.82285267,Ur and Wilkinson 2008,TBS,Iron Age,Tell Ghazal,true
+"30",TBS_37_0_0,1.143,-1600,-1400,40.65869184,36.82285267,Ur and Wilkinson 2008,TBS,Late Bronze Age,Tell Ghazal,true
+"31",TBS_39_0_0,3.885999,-1200,-550,40.59215018,36.84689049,Ur and Wilkinson 2008,TBS,Iron Age,Tell Sekar Fawqani,true
+"32",TBS_39_0_0,3.885999,-1600,-1200,40.59215018,36.84689049,Ur and Wilkinson 2008,TBS,Late Bronze Age,Tell Sekar Fawqani,true
+"33",TBS_39_0_0,3.885999,-2550,-2000,40.59215018,36.84689049,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Sekar Fawqani,true
+"34",TBS_4_0_0,2.929998,-2550,-2000,40.59730575,36.71033414,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Rajab,true
+"35",TBS_4_0_0,0.811999,-1200,-550,40.59730575,36.71033414,Ur and Wilkinson 2008,TBS,Iron Age,Tell Rajab,true
+"36",TBS_40_0_0,1.014999,-2550,-2000,40.59830976,36.82681266,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Sekar Wastani,true
+"37",TBS_40_0_0,0.753,-1600,-1200,40.59830976,36.82681266,Ur and Wilkinson 2008,TBS,Late Bronze Age,Tell Sekar Wastani,true
+"38",TBS_41_0_0,2.713999,-2550,-2000,40.60312836,36.80450996,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Sekar Tahtani,true
+"39",TBS_41_0_0,2.299999,-1600,-1200,40.60312836,36.80450996,Ur and Wilkinson 2008,TBS,Late Bronze Age,Tell Sekar Tahtani,true
+"40",TBS_41_0_0,0.935,-1200,-330,40.60312836,36.80450996,Ur and Wilkinson 2008,TBS,Iron Age,Tell Sekar Tahtani,true
+"43",TBS_42_0_0,2.877998,-1200,-330,40.59015217,36.78839212,Ur and Wilkinson 2008,TBS,Iron Age,,
+"44",TBS_42_0_0,2.877998,-1600,-1200,40.59015217,36.78839212,Ur and Wilkinson 2008,TBS,Late Bronze Age,,
+"45",TBS_43_0_0,23.561726,-1200,-330,40.5591887,36.77488404,Ur and Wilkinson 2008,TBS,Iron Age,Tell Hassek,true
+"46",TBS_43_0_0,23.561726,-2000,-1600,40.5591887,36.77488404,Ur and Wilkinson 2008,TBS,Khabur,Tell Hassek,true
+"47",TBS_43_0_0,5.571905,-2550,-2000,40.5591887,36.77488404,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Hassek,true
+"50",TBS_43_0_0,4.976385,-1600,-1200,40.5591887,36.77488404,Ur and Wilkinson 2008,TBS,Late Bronze Age,Tell Hassek,true
+"51",TBS_45_0_0,0.963999,-1200,-550,40.55475043,36.78754467,Ur and Wilkinson 2008,TBS,Iron Age,,
+"52",TBS_47_0_0,3.734999,-1200,-550,40.52021916,36.81348422,Ur and Wilkinson 2008,TBS,Iron Age,,
+"53",TBS_47_0_0,3.734999,-2000,-1600,40.52021916,36.81348422,Ur and Wilkinson 2008,TBS,Khabur,,
+"54",TBS_49_0_0,3.150999,-1200,-550,40.49740206,36.75255122,Ur and Wilkinson 2008,TBS,Iron Age,,
+"55",TBS_50_0_0,1.21,-2000,-1500,40.50658017,36.7865831,Ur and Wilkinson 2008,TBS,Khabur,Tell Ghazal Fawqani,true
+"56",TBS_52_0_0,0.513,-1000,-550,40.50539231,36.82013978,Ur and Wilkinson 2008,TBS,Iron Age,Tell Farfara,true
+"57",TBS_52_0_0,0.513,-1600,-1000,40.50539231,36.82013978,Ur and Wilkinson 2008,TBS,Late Bronze Age,Tell Farfara,true
+"58",TBS_52_0_0,0.513,-2550,-2000,40.50539231,36.82013978,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Farfara,true
+"60",TBS_53_0_0,1.258999,-1200,-550,40.51583817,36.82955929,Ur and Wilkinson 2008,TBS,Iron Age,Tell Sawadih,true
+"61",TBS_54_0_0,1.603999,-1200,-550,40.53859707,36.84371009,Ur and Wilkinson 2008,TBS,Iron Age,,
+"62",TBS_54_0_0,1.603999,-1600,-1200,40.53859707,36.84371009,Ur and Wilkinson 2008,TBS,Late Bronze Age,,
+"64",TBS_55_0_0,7.152447,-1200,-330,40.69894171,36.77664503,Ur and Wilkinson 2008,TBS,Iron Age,Tell Effendi,true
+"65",TBS_55_0_0,3.922448,-1600,-1200,40.69894171,36.77664503,Ur and Wilkinson 2008,TBS,Late Bronze Age,Tell Effendi,true
+"66",TBS_55_0_0,3.922448,-2550,-2000,40.69894171,36.77664503,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Effendi,true
+"68",TBS_56_0_0,0.922999,-1200,-550,40.69240329,36.79880518,Ur and Wilkinson 2008,TBS,Iron Age,,
+"69",TBS_59_0_0,5.498999,-1000,-330,40.6077783,36.68319163,Ur and Wilkinson 2008,TBS,Iron Age,Tell Jamil,true
+"70",TBS_59_0_0,5.498999,-1500,-1000,40.6077783,36.68319163,Ur and Wilkinson 2008,TBS,Late Bronze Age,Tell Jamil,true
+"72",TBS_59_0_0,5.182999,-2550,-2000,40.6077783,36.68319163,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Jamil,true
+"73",TBS_59_0_0,1.883999,-2000,-1500,40.6077783,36.68319163,Ur and Wilkinson 2008,TBS,Khabur,Tell Jamil,true
+"75",TBS_6_0_0,1.214998,-1000,-550,40.60279476,36.70642504,Ur and Wilkinson 2008,TBS,Iron Age,,
+"76",TBS_6_0_0,0.616999,-1600,-1000,40.60279476,36.70642504,Ur and Wilkinson 2008,TBS,Late Bronze Age,,
+"77",TBS_60_0_0,1.751,-2550,-2000,40.61576538,36.66064841,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell 'Aloni,true
+"78",TBS_61_0_0,2.703,-2550,-2000,40.59627381,36.7061713,Ur and Wilkinson 2008,TBS,Late Third Millennium,,
+"79",TBS_62_0_0,1.144999,-550,-330,40.59063819,36.72609277,Ur and Wilkinson 2008,TBS,Iron Age,,
+"80",TBS_63_0_0,1.378999,-2550,-2000,40.49097392,36.76586323,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Ghazal,true
+"81",TBS_63_0_0,1.092,-1600,-1200,40.49097392,36.76586323,Ur and Wilkinson 2008,TBS,Late Bronze Age,Tell Ghazal,true
+"82",TBS_63_0_0,0.894999,-1200,-550,40.49097392,36.76586323,Ur and Wilkinson 2008,TBS,Iron Age,Tell Ghazal,true
+"83",TBS_64_0_0,1.202,-900,-600,40.47823157,36.75888958,Ur and Wilkinson 2008,TBS,Iron Age,,
+"84",TBS_65_0_0,0.514999,-1600,-1200,40.4635373,36.7687016,Ur and Wilkinson 2008,TBS,Late Bronze Age,,
+"85",TBS_66_0_0,3.320998,-900,-600,40.46012943,36.76752716,Ur and Wilkinson 2008,TBS,Iron Age,,
+"86",TBS_67_0_0,0.463999,-1400,-1200,40.45771973,36.76476222,Ur and Wilkinson 2008,TBS,Late Bronze Age,,
+"87",TBS_69_0_0,0.842998,-1200,-550,40.55640127,36.69525862,Ur and Wilkinson 2008,TBS,Iron Age,,
+"88",TBS_70_0_0,0.423999,-1200,-550,40.5585385,36.68769105,Ur and Wilkinson 2008,TBS,Iron Age,,
+"89",TBS_75_0_0,0.259999,-1200,-600,40.64274615,36.702986,Ur and Wilkinson 2008,TBS,Iron Age,,
+"90",TBS_76_0_0,1.382,-1200,-550,40.66468907,36.69297876,Ur and Wilkinson 2008,TBS,Iron Age,,
+"91",TBS_76_0_0,1.382,-1600,-1200,40.66468907,36.69297876,Ur and Wilkinson 2008,TBS,Late Bronze Age,,
+"92",TBS_77_0_0,1.715999,-1200,-550,40.70897457,36.70637682,Ur and Wilkinson 2008,TBS,Iron Age,,
+"93",TBS_77_0_0,1.715999,-1600,-1200,40.70897457,36.70637682,Ur and Wilkinson 2008,TBS,Late Bronze Age,,
+"94",TBS_83_0_0,1.279999,-1200,-550,40.62273444,36.74262172,Ur and Wilkinson 2008,TBS,Iron Age,,
+"95",TBS_9_0_0,2.003999,-1000,-550,40.62500574,36.72868409,Ur and Wilkinson 2008,TBS,Iron Age,,
+"96",TBS_9_0_0,0.127,-1400,-1000,40.62500574,36.72868409,Ur and Wilkinson 2008,TBS,Late Bronze Age,,
+"97",TBS_67_0_0,0.463999,-1200,-550,40.45771973,36.76476222,Ur and Wilkinson 2008,TBS,Iron Age,,false
+"98",TBS_47_0_0,3.734999,-1600,-1200,40.52021916,36.81348422,Ur and Wilkinson 2008,TBS,Late Bronze Age,,
+"100",TBS_10_0_0,1.2,-2550,-1900,40.64211119,36.7333253,Ur and Wilkinson 2008,TBS,Late Third Millennium,Tell Kaferu,true
+"101",TBS_22_0_0,1.121999,-2550,-2000,40.69655235,36.69236008,Ur and Wilkinson 2008,TBS,Late Third Millennium,Bergul al-Buz,true
